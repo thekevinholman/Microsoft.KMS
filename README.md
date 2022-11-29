@@ -5,7 +5,7 @@
 [Download]: https://github.com/thekevinholman/Microsoft.KMS/archive/refs/heads/main.zip
 
 ### Microsoft Key Management Service (KMS) Management Pack  
-### This MP supports KMS on Windows Server 2012 R2 and later
+### This MP supports KMS on Windows Server 2012 and later
 
 Discovers and Monitors:
 * KMS Servers
